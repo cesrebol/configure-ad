@@ -36,6 +36,9 @@ The very first step is to create a Virtual Machine in Azure. In Azure, when you 
 <p>
   <img src="https://i.imgur.com/51nioYx.png" height="80%" width="80%" />
 </p>
+<p>
+Make sure that your configurations look like the the screenshots above.
+</p>
 <br />
 
 <p>
