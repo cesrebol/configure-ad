@@ -28,7 +28,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-  ## Step 1 <br>The very first step is to create a Virtual Machine in Azure. In Azure, when you create a VM, a Resource Group will automatically be created. The very first VM that we will create is a Windows Server 2022 machine that will be our Domain Controlled. We will name this "DC-1", clever I know. 
+## Step 1 <br>The very first step is to create a Virtual Machine in Azure. In Azure, when you create a VM, a Resource Group will automatically be created. The very first VM that we will create is a Windows Server 2022 machine that will be our Domain Controlled. We will name this "DC-1", clever I know. 
 </p>
 <p>
 <img src="https://i.imgur.com/2MvyY8e.png" height="80%" width="80%" alt="Configuration"/>
