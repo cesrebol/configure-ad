@@ -31,7 +31,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The very first step is to create a Virtual Machine in Azure. In Azure, when you create a VM, a Resource Group will automatically be created. The very first VM that we will create is a Windows Server 2022 machine that will be our Domain Controlled. We will name this "DC-1"... clever I know. 
+1. The very first step is to create a Virtual Machine in Azure. In Azure, when you create a VM, a Resource Group will automatically be created. The very first VM that we will create is a Windows Server 2022 machine that will be our Domain Controlled. We will name this "DC-1", clever I know. 
 </p>
 <br />
 
