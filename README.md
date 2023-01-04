@@ -61,4 +61,10 @@ In the Network Interface section, you will see a section on the left that is cal
 <img src="https://i.imgur.com/2Do6Yo8.png" height="80%" width="80%" />
 
 </p>
+
+<p>
+  This is how you set up and configure both the DC and Client VM. Hope this helps. 
+<p>
+
+
   <br />
